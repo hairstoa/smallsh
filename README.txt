@@ -1,10 +1,7 @@
-Adriane Hairston
-July 29, 2021
-Assignment 3: smallsh
 Instructions
 
 1) Compile
-Navigate to the directory "hairstoa_program3" and enter it. Then enter the following into the command line(without quotations):
+Download the files and enter the repository that contains them. Then enter the following into the command line(without quotations):
 
     "make"
 
