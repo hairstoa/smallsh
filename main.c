@@ -1,8 +1,8 @@
 /*******************************************************************************
-* Program:      Assignment 3 smallsh   
+* Program:      CS344 Assignment 3 smallsh   
 * Author:       Adriane Hairston
 * Date:         July 22, 2021
-*               smallsh is a shell implemenation with custom exit, cd, and
+*               smallsh is a shell implementation with custom exit, cd, and
 *               status commands. All others are redirected with exec().
 *
 * Citations:
